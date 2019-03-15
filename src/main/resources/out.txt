@@ -1,0 +1,6 @@
+[Trolls, Trolls, Trolls, Miss Peregrine's Home for Peculiar Children, Miss Peregrine's Home for Peculiar Children, Miss Peregrine's Home for Peculiar Children, Miss Peregrine's Home for Peculiar Children, Miss Peregrine's Home for Peculiar Children, Arrival, Arrival, Arrival, Arrival, Arrival, Arrival, Arrival, Arrival, Arrival, Arrival, Arrival, Arrival, Doctor Strange, Doctor Strange, Fantastic Beasts and Where to Find Them, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven, The Magnificent Seven]
+{Miss Peregrine's Home for Peculiar Children=78.74015748031496, Trolls=100.0, The Magnificent Seven=94.73684210526315, Doctor Strange=100.0, Arrival=94.82758620689656, Fantastic Beasts and Where to Find Them=90.22556390977444}
+{leuteris=94.84487079768387, george=97.74436090225564, maria=91.42688550047397}
+{leuteris=SciFi, george=Fantasy, maria=Action}
+[Action, Fantasy]
+[109.26625209154179]
